@@ -2,11 +2,13 @@
 
 Aplicação moderna desenvolvida em React com foco em **UX/UI e integração com a API do GitHub**, permitindo visualizar repositórios, detalhes, issues e muito mais — tudo isso com um visual elegante e responsivo.
 
-![App Screenshot 1](https://github.com/seu-usuario/seu-repo/assets/caminho-para-img1.png)
-![App Screenshot 2](https://github.com/seu-usuario/seu-repo/assets/caminho-para-img2.png)
+![App Screenshot 1](https://github.com/denilsonferreiradearaujo/Api_GitHub_React/assets/img1.png)
+![App Screenshot 2](https://github.com/denilsonferreiradearaujo/Api_GitHub_React/assets/img2.png)
 
-## Deploy da aplicação na Versel.
-![App Screenshot 1](https://github.com/seu-usuario/seu-repo/assets/caminho-para-img1.png)
+## Acesse o Deploy da aplicação na Vercel clicando na imagem abaixo:
+<a href="https://apigithub-git-main-denilson-ferreira-de-araujos-projects.vercel.app/">
+  <img src="https://github.com/denilsonferreiradearaujo/Api_GitHub_React/assets/img3.png" alt="App Screenshot 1" width="250" height="120"/>
+</a>
 
 ## ✨ Funcionalidades
 
@@ -35,7 +37,7 @@ Aplicação moderna desenvolvida em React com foco em **UX/UI e integração com
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/denilsonferreiradearaujo/Api_GitHub_React.git
 
 # Entre na pasta
 cd seu-repo
@@ -44,4 +46,4 @@ cd seu-repo
 npm install
 
 # Inicie o projeto
-npm run dev
+npm start
